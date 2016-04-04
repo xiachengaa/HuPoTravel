@@ -1,0 +1,16 @@
+//
+//  hupoTravel.pch
+//  hupoTravel
+//
+//  Created by mac on 16/2/6.
+//  Copyright © 2016年 mac. All rights reserved.
+//
+
+#ifndef hupoTravel_pch
+#define hupoTravel_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "Common.h"
+#import <UIKit/UIKit.h>
+#endif /* hupoTravel_pch */

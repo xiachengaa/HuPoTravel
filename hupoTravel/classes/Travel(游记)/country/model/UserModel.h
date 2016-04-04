@@ -1,0 +1,16 @@
+//
+//  UserModel.h
+//  琥珀旅行游记
+//
+//  Created by 朱晓涵 on 16/2/9.
+//  Copyright © 2016年 朱晓涵. All rights reserved.
+//
+
+#import "JSONModel.h"
+
+@interface UserModel : JSONModel
+
+@property (nonatomic, copy) NSString *name;
+@property (nonatomic, copy) NSString *photo_url;
+
+@end

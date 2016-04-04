@@ -1,0 +1,155 @@
+[
+ {
+        "id":99,
+        "title":"东京游玩概览",
+        "sections":
+         [
+          {
+           "id":119,
+           "title":"东京概览",
+           "description_user_ids":{},
+           "ctrip_attraction_ids":null,
+           "description":"东京是日本的首都，世界第一大城市，往往作为游客游览日本的第一站。按范围分为东京都内，首都圈，东京周边。\n#东京都内#\n主要包含了东京市中心的23个区，聚集了历史与传统的观光地。以JR山手线为交通中心。\n#首都圈#\n包括了东京都以及周边的神奈川县、千叶县和埼玉县，主要涵盖了东京都边缘的三鹰宫崎骏美术馆，神奈川县的横滨，镰仓•江之岛和箱根，千叶县的迪士尼等游客熟知的热门景点。\n#东京周边#\n主要包含了富士山，伊豆热海，轻井泽，日光等著名景点。\n#游玩建议#\n东京都内的景点一般一天可以安排3-5个，首都圈的景点一般可以当天来回，要是时间充裕，可以考虑住宿温泉地，东京周边的景点可以考虑安排至少一天。一般来说东京都内以购物和一般游览为主，较为精华的景区都在首都圈外围和东京周边。\n市面有东京都内游览的一日票，也有从东京都内到首都圈或东京周边的一日票。",
+           "travel_date":null,
+           "":null,
+           "attractions":[],
+           "hotels":[],
+           "pages":[],
+           "photos":
+            [
+             {
+              "image_url":"http://w.chanyouji.cn/1407495059434p18uqjsdv31hig1n7bo5n18vf1i761.jpg",
+              "image_width":1272,"image_height":878,
+              "description":"东京都，首都圈，东京周边的范围地图",
+              "trip_id":null,
+              "note_id":null,
+              "user_name":null
+             },
+             {
+              "image_url":"http://p.chanyouji.cn/101499/1393903259114p18i5hmsjpmr11qsnggv1vfpd231g.jpg",
+              "image_width":720,
+              "image_height":480,
+              "description":"东京市区：浅草寺，图片来自@粉团子PINK 的蝉游记《日本的味道@东京、箱根与镰仓》",
+              "trip_id":101499,
+              "note_id":4127522,
+              "user_name":"粉团子PINK"
+              },
+              {
+               "image_url":"http://p.chanyouji.cn/53520/1373703709177p17vbgvks5ham1iso22c1hc51ugc30.jpg",
+               "image_width":800,
+               "image_height":533,
+               "description":"首都圈：镰仓，图片来自@游啊游 的蝉游记《东京二次目》",
+               "trip_id":53520,
+               "note_id":2076852,
+               "user_name":"游啊游"
+               },
+               {
+                "image_url":"http://p.chanyouji.cn/93740/1388042707062p18cmsjuajsrn1e941c7u1rju3l812.jpg",
+                "image_width":1600,
+                "image_height":1176,
+                "description":"东京周边：富士山，图片来自@白宇_小白 的蝉游记《迷失东瀛》",
+                "trip_id":93740,
+                "note_id":3654277,
+                "user_name":"白宇_小白"
+               }
+             ],
+            "items":[]
+        },
+        {
+         "id":132,
+         "title":"东京市内热门地",
+         "description_user_ids":{},
+         "ctrip_attraction_ids":null,
+         "description":"#东京制高点#\n要说到东京代表性的风景，第一时间便会想到东京塔或者天空树这两座地标性建筑，以及各种耸立的高楼大厦。从这些建筑高处的展望台俯瞰东京，可将这座世界第一大都市尽收眼底。暮色下流光溢彩的街道、闪烁的广告牌相映着远处的富士山，美到没朋友。\n#购物圣地#\n东京是著名的购物之都，银座与表参道是世界顶级大牌的斗秀场，新宿是日本各大百货商店的聚集地，原宿及涉谷则是亚洲潮流文化的发源地，是年轻人最爱的商圈。\n#江户风情#\n与浅草寺前悬挂着大红灯笼的“雷门”的合影可谓是东京旅行标准照，如今的浅草仍保留着浓浓的江户风情。此外皇居与明治神宫是东京市区内日本传统文化精华所在，是各个来东京旅行的人必游之地。\n#二次元与宅男的宇宙中心#\n日本动漫世界闻名，东京的秋叶原与池袋可谓二次元的宇宙中心、动漫迷们的朝圣地。同时，秋叶原还是日本另一个特色产业——“爱情动作片”及周边商店的根据地。而池袋乙女街则是二次元女性向的圣地。\n#赏樱名所#\n樱花是日本文化中最重要的元素之一，春季追樱是最重要的旅行项目。东京有十几个赏樱点，其中又以上野公园和新宿御苑等最有名，在上野公园，晚上还能看到当地人在樱花树下聚餐看夜樱的日式赏樱文化。\n#吃货天堂#\n日本米其林餐厅众多，绝大部分汇聚于东京都内（米其林三星14家）。不仅如此，各种世界顶级甜品店也纷纷在此落户，成为吃货们的天堂。如果对海鲜情有独钟，筑地市场则是不容错过的必去之地。",
+          "travel_date":null,
+          "":null,"attractions":[],
+          "hotels":[],
+          "pages":[],
+          "photos":
+           [
+            {
+             "image_url":"http://p.chanyouji.cn/1399191395/C4C97800-17E7-4DDE-B069-A8FB0EDFD10D.jpg",
+             "image_width":1600,
+             "image_height":1200,
+             "description":"制高点：晴空塔（天空树），图片来自@yanweivvv 的蝉游记《ゴールデンウイーク2ー東京》",
+             "trip_id":120080,"note_id":5025586,
+             "user_name":"yanweivvv"
+            },
+            {
+             "image_url":"http://p.chanyouji.cn/75525/1396148043659p18k8ebu2p17v61m431kkotqm14te16.jpg",
+             "image_width":1600,
+             "image_height":1063,
+             "description":"购物胜地：银座，图片来自@胡尕峰 的蝉游记《东京的8天7夜》",
+             "trip_id":75525,
+             "note_id":4395903,
+             "user_name":"胡尕峰"
+            },{"image_url":"http://p.chanyouji.cn/91557/1386938302559p18blsueaharu13ojgob15u7ngtk.jpg","image_width":800,"image_height":477,"description":"江户风情：明治神宫，图片来自@Lonelain 的蝉游记《日本, 需要多少步才能走完? (141365)》","trip_id":91557,"note_id":3602385,"user_name":"Lonelain"},{"image_url":"http://p.chanyouji.cn/1380086883/45968122-E86B-45E0-B123-B1003E1958D5.jpg","image_width":1600,"image_height":1196,"description":"二次元朝圣：秋叶原，图片来自@qzuser 的蝉游记《日本游》","trip_id":71082,"note_id":2994475,"user_name":"qzuser"},{"image_url":"http://p.chanyouji.cn/1390359976/50F00048-8AEE-44AA-B844-CAE7E47FBE98.jpg","image_width":800,"image_height":533,"description":"赏樱明所：上野公园，图片来自@MOMO528528 的蝉游记《∞桜》","trip_id":96515,"note_id":3797586,"user_name":"MOMO528528"},{"image_url":"http://p.chanyouji.cn/142934/1405564443506p18t12lgjva28kesmnnlmbia8j.jpg","image_width":1562,"image_height":1562,"description":"筑地市场：大和寿司，图片来自@哈蜜猫Karen 的蝉游记《迷恋东京之和风细雨  珍宝猪&哈蜜猫》","trip_id":142934,"note_id":6116251,"user_name":"哈蜜猫Karen"}
+            ],
+          "items":[]
+        },
+        {
+          "id":133,"title":"东京周边游玩概览",
+          "description_user_ids":{},
+          "ctrip_attraction_ids":null,
+          "description":"东京都的周边也有很多旅行热门地值得一去。\n#首都圈#\n坐落于千叶县的迪士尼乐园是亚洲的第一游乐园。\n三鹰市是动画大师宫崎骏的吉卜力美术馆的所在。\n镰仓•江之岛，从东京到镰仓的湘南海岸，是《灌篮高手》的原景地，满载着80后回忆，而镰仓小城则是日本历史上幕府时期的根据地，有着许多古迹与寺庙。\n横滨是日本的外港，散发出东京所没有的港口风情。\n箱根不仅可以欣赏到富士山的美景，更是举世闻名的温泉胜地，天气好的时候，从箱根大涌谷和芦之湖都可以看到富士山美景。\n#东京周边#\n热海是从东京可以最快到达的温泉地。远少于箱根的游客数量，会让你泡温泉时感受到不一样的宁静。\n富士山是日本最具代表性的风景名胜，建在半山腰的富士急乐园是年轻人的嘉年华。\n日光是日本11处世界遗产之一的旅游胜地，有日本最豪华的东照宫和德川家康的陵墓，还有完全还原明治时代风格的日光江户村主题公园，附近的鬼怒川温泉也十分有名。",
+          "travel_date":null,
+          "":null,"attractions":[],"hotels":[],"pages":[],
+          "photos":
+           [
+            {
+             "image_url":"http://p.chanyouji.cn/95597/1390030815876p18ei4lqou4k1kr22b1uh98u66.jpg",
+             "image_width":1600,
+             "image_height":1066,
+             "description":"东京迪士尼乐园，图片来自@尼珞 的蝉游记《disney sea+J-world东京两大乐园初体验》",
+             "trip_id":95597,
+             "note_id":3778428,
+             "user_name":"尼珞"
+            },
+            {
+             "image_url":"http://p.chanyouji.cn/158332/1408933544308p1905evsvu8vng9l1m726vplgf37.jpg",
+             "image_width":1600,
+             "image_height":1068,
+             "description":"吉卜力美术馆，图片来自@常昕Black_Heron 的蝉游记《黑鹭的日本行！》",
+             "trip_id":158332,
+             "note_id":6882670,
+             "user_name":"常昕Black_Heron"
+            },{"image_url":"http://p.chanyouji.cn/56916/1374741532352p180af65aj1mr6lst15bprrqum03g.jpg","image_width":1600,"image_height":1067,"description":"镰仓八幡宫，图片来自@ Dawson 的蝉游记《九州-关西-东京 14天JR斜穿日本》","trip_id":56916,"note_id":2252640,"user_name":" Dawson"},{"image_url":"http://p.chanyouji.cn/1396756625/D029C825-A84A-4C04-AA1C-5BC92D3DC40D.jpg","image_width":1600,"image_height":1600,"description":"箱根温泉，图片来自@lyracao 的蝉游记《樱花季去日本追男神》","trip_id":109672,"note_id":4507383,"user_name":"lyracao"},
+            {"image_url":"http://p.chanyouji.cn/94247/1388475351237p18d3p78it19ro1r3mq1g1um1680h.jpg","image_width":1600,"image_height":1081,"description":"富士山，图片来自@马克吐温斯文扫地 的蝉游记《老板娘，抹茶请来一盏》","trip_id":94247,"note_id":3681093,"user_name":"马克吐温斯文扫地"},{"image_url":"http://p.chanyouji.cn/94013/1388315852570p18cv15aq7a7c168916u01ilr1kf94.jpg","image_width":1600,"image_height":1067,"description":"热海，图片来自@飞鱼_向往白白海 的蝉游记《漫步伊豆 热海 掛川 @2013冬》","trip_id":94013,"note_id":3669496,"user_name":"飞鱼_向往白白海"
+            }
+            ],
+          "items":[]
+          }
+       ]
+   },
+   {
+        "id":100,
+        "title":"旅行者印象",
+        "sections":
+           [
+            {
+             "id":1283,
+             "title":"东京都内以购物为主",
+             "description_user_ids":{},
+             "ctrip_attraction_ids":null,
+             "description":"东京旅游最大的特点就是逛，几个所谓的景点（新宿，涩谷，池袋，银座啥的）其实都是购物商圈，聚集了一堆大商场，这个商圈卖的，另一处也能买到。如果说特色，也就秋叶原和台场，连涩谷特色都不明显。\n东京都内的建筑景点在日本不算太有特色，有特色的都在东京周边1小时车程外的地方。美食方面，东京没自己的特色（非要说特色，筑地市场的海鲜算个特色），但汇聚了日本各地的特色美食。",
+             "travel_date":"2014-03 出行",
+             "user":{"id":209300,"name":"Web"},
+             "attractions":[],
+             "hotels":[],
+             "pages":[],
+             "photos":[],
+             "items":[]
+            },
+            {"id":1170,"title":"购物的好地方","description_user_ids":{},"ctrip_attraction_ids":null,"description":"东京景点没太多可逛的，但确实是购物的好地方！我们住新宿附近，周围超多的药妆店，电子产品商场，服装店，通宵商场等，完全逛不过来。药妆价格比其它城市(比如北海道)便宜很多，电饭煲、手表也很划算。建议把东京放在行程最后一站，疯狂血拼一番后，带着满满的战利品回国。","travel_date":"2014-07 出行","user":{"id":128915,"name":"小夜轰"},"attractions":[],"hotels":[],"pages":[],"photos":[],"items":[]},{"id":981,"title":"东京很国际化","description_user_ids":{},"ctrip_attraction_ids":null,"description":"东京的物价在日本算高的，交通确实贵，但住宿吃饭之类比国内贵得不多。东京太过国际化了，感觉不太像传统的日本。像浅草寺这种普普通通的景点，在东京都成地标了。食品也是，其他地区都有自己的特色食品，没听说有什么东京特色食品，但基本各地特色都能吃到。","travel_date":"2014-03 出行","user":{"id":325737,"name":"小狐狸"},"attractions":[],"hotels":[],"pages":[],"photos":[],"items":[]},{"id":963,"title":"东京没啥看红叶的地方","description_user_ids":{},"ctrip_attraction_ids":null,"description":"东京就没什么特别好的赏枫名所，没听说日本人专门跑到东京看红叶的。最漂亮的红叶在京都，所以在红叶季节关西那边的酒店都巨贵且爆满，东京反倒涨价不多。","travel_date":"2014-03 出行","user":{"id":325737,"name":"小狐狸"},"attractions":[],"hotels":[],"pages":[],"photos":[],"items":[]
+            },
+            {"id":982,"title":"交通贵天空蓝","description_user_ids":{},"ctrip_attraction_ids":null,"description":"东京现代化程度很高，24小时便利店遍布，奢侈品比国内便宜很多。普通餐饮价格与国内相差不多，食材安全新鲜。唯一贵的就是交通，东京地铁起步价就160日元，新干线都快赶上飞机的价格了，因此旅行者使用优惠套票很有必要。\n东京非常干净，天空格外的蓝，下雨天地面上的积水溅到衣服上都没有污渍，一双皮鞋穿一两个月都不用擦。","travel_date":"2012-01 出行",
+             "user":{"id":326607,"name":"风轻扬"},
+             "attractions":[],
+             "hotels":[],
+             "pages":[],
+             "photos":[],
+             "items":[]
+            }
+        ]
+   }
+]
